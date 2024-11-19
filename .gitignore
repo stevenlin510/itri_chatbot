@@ -1,0 +1,12 @@
+__pycache__/
+audio2face/
+chatbot_default_audio/
+Myles_Selina/
+readme_src/
+api_keys_n_variables.py
+main_test.py
+output.wav
+path_hold.py
+Setup Audio2Face.md
+start.bat
+tmp.wav
